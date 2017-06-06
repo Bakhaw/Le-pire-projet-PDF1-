@@ -1,0 +1,40 @@
+h1, h3 {
+  color: #8BBEB2;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 200%;
+}
+
+p {
+  background-color: #E6F9AF;
+  color: #63768D;
+  font-family: 'Varela Round', sans-serif;
+  text-align: center;
+  line-height: 150%;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+.imgHeader {
+  border-radius: 50%;
+  width: 20%;
+  height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+#container, h1, h3{
+  width: 500px;
+  margin: 0 auto;
+  background-color: #DE6E4B;
+  text-align: center;
+}
+.buddha {
+text-align: center;
+}
+.card {
+  background-color: #FFA5A5;
+  text-align: center;
+}
