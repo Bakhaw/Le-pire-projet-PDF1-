@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h3 {
+  color: #8BBEB2;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 200%;
+}
+
+.presentation {
+  color: #0E0E52;
+}
+
+p {
+  background-color: #E6F9AF;
+  color: #63768D;
+  font-family: 'Varela Round', sans-serif;
+  text-align: center;
+  line-height: 150%;
+}
+
+a:hover {
+  color: blue;
+  background-color: yellow;
+}
+
+.imgHeader {
+  border-radius: 50%;
+  width: 20%;
+  height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
